@@ -10,7 +10,7 @@
 
 | 팀장 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [부원국](https://github.com/BOO-WONKUK) | [이경민](https://github.com/) | [김태원](https://github.com/) | [강동성](https://github.com/) | [장재영](https://github.com/) | [서혜윰](https://github.com/BOO-WONKUK) | [안호균](https://github.com/) |
+| [부원국](https://github.com/BOO-WONKUK) | [이경민](https://github.com/Lee-GyeongMin95) | [김태원](https://github.com/Taegooo) | [강동성](https://github.com/nobita123han) | [장재영](https://github.com/janjaeyoung) | [서혜윰](https://github.com/BOO-WONKUK) | [안호균](https://github.com/VANDOL) |
 | PM / AI | AI | AI | Front-End | Front-End | Back-End | Back-End |
 
 ## 👀 프로젝트 개요
