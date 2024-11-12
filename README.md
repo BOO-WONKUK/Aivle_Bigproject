@@ -34,7 +34,9 @@
 
 - 🗄 산출물
   - [🔖 발표 자료](docs/27조_발표자료.pdf) 
+  - [📑 과제정의서](docs/27조_과제정의서.docx)
   - [📽 시연 영상 (10:13)](https://youtu.be/uRfOlUa_Oa8)
+  - [📁 원본 및 가공 데이터](https://drive.google.com/drive/folders/14cVjtI_S7jvObnzVw91qSVikujq_Brq5?usp=sharing)
 
 -  🥇 성과
 
